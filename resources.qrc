@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/plugins/reroute" >
+        <file>icon.png</file>
+        <file>north-point-icon-png.png</file>
+        <file>reset.png</file>
+    </qresource>
+</RCC>
